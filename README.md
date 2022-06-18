@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @PersonWithEars
-- 👀 I’m interested in Coding, Film And Video Games
-- 🌱 I’m currently learning C# And HTML
-- 😃 I'm currently a Student
-- 📫 Discord Is PersonWithEars#3150
+<h1 align="center">Hi 👋, I'm Neil</h1>
+<h3 align="center">A Student Eager To Learn</h3>
 
-<!---
-PersonWithEars/PersonWithEars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **C# & HTML**
+
+- 💬 Ask me about **My Current Projects!**
+
+- 📫 How to reach me **PersonWithEars#3150**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/\vF6wWu2rZM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="\vF6wWu2rZM" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
