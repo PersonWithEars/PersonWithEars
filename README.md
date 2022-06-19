@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neil (PersonWithEars)</h1>
+<h1 align="center">Hi 👋, I'm PersonWithEars</h1>
 <h3 align="center">A Student Eager To Learn</h3>
 
 - 🌱 I’m currently learning **CSS3 & HTML** 
