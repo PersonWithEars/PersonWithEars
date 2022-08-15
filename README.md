@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PersonWithEars</h1>
 <h3 align="center">A Student Eager To Learn</h3>
 
-- 🌱 I’m currently learning **CSS3 & HTML** 
+- 🌱 I’m currently learning **CSS3, C# & HTML** 
 
 - 💬 Ask me about **My Current Projects!**
 
