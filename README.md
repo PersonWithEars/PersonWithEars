@@ -2,7 +2,7 @@
 🌱 I’m currently learning CSS3, C#, Javascript & HTML<br>💬 Ask me about My Current Projects!<br>📫 How to reach me PersonWithEars#3150
 
 
-## 🌐 Socials:
+## 🌐 How To Reach Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/\vF6wWu2rZM) 
 
 # 💻 Tech Stack:
