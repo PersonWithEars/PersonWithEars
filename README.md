@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CSS3, C# & HTML<br>💬 Ask me about My Current Projects!<br>📫 How to reach me PersonWithEars#3150
+🌱 I’m currently learning CSS3, C#, Javascript & HTML<br>💬 Ask me about My Current Projects!<br>📫 How to reach me PersonWithEars#3150
 
 
 ## 🌐 Socials:
